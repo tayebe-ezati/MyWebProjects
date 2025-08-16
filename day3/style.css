@@ -1,0 +1,23 @@
+body {
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+.intro {
+  font-size: 18px;
+  color: darkgreen;
+}
+
+button {
+  background-color: orange;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+}
