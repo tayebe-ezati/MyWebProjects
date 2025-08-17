@@ -1,0 +1,35 @@
+body {
+  font-family: Tahoma, sans-serif;
+  background: #f9fafb;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #1e3a8a;
+}
+
+.box {
+  width: 250px;
+  padding: 20px;        /* فاصله متن تا داخل جعبه */
+  margin: 50px auto;    /* فاصله جعبه با بیرون */
+  border: 4px dashed black; /* خط دور جعبه */
+  border-radius: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.red-box {
+  background: #fecaca;
+  border-color: red;
+}
+
+.green-box {
+  background: #bbf7d0;
+  border-color: green;
+}
+
+.blue-box {
+  background: #bfdbfe;
+  border-color: blue;
+}
