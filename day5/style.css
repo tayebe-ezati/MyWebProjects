@@ -1,0 +1,23 @@
+/* استایل کل صفحه */
+body {
+    background-color: #f0f8ff; /* رنگ پس زمینه */
+    font-family: Arial, sans-serif; /* نوع فونت */
+}
+
+/* استایل تیتر */
+h1 {
+    color: darkblue; /* رنگ متن */
+    font-size: 36px; /* اندازه فونت */
+}
+
+/* استایل پاراگراف‌ها */
+p {
+    color: #333333;
+    font-size: 18px;
+}
+
+/* یک کلاس خاص */
+.highlight {
+    color: red;
+    font-weight: bold;
+}
